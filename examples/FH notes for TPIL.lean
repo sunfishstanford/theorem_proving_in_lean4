@@ -18,7 +18,7 @@ f has four arguments
 2 = (fun α => α)
 3 = Nat
 4 = x
-
+5
 
 -/
 
